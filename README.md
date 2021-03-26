@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Qing Dai
-- 👀 I’m interested in healthcare and AI
-- 🌱 I’m currently learning how to put AI into medical imaging
-- 💞️ I’m looking to collaborate on anything that can save people's lives
-- 📫 How to reach me qdai@ucla.edu
+- 👀 I’m interested 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate 
+- 📫 How to reach me 
 
 <!---
 aspgln/aspgln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
